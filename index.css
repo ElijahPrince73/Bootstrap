@@ -34,6 +34,10 @@ p{
 	color: #da5228;
 }
 
+h2{
+	color: #da5228;
+	margin-left: 100px;
+}
 .bold{
 	font-size: bold;
 }
@@ -50,3 +54,13 @@ p{
 	margin-top: 100px;
 	font-size: 300%;
 }
+
+#footer{
+	background-color: #333333;
+	width: 100%;
+}
+
+.marginBottom{
+	margin-bottom: 30px;
+}
+
