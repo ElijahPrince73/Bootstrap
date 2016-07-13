@@ -5,8 +5,13 @@
 }
 
 .navbar-brand {
-	padding: 0px;
-	font-size: 1.8em;
+	padding: 10px;
+	font-size: 1.3em;
+}
+
+.navbar-collapse{
+	padding: 15px;
+	margin-left: 
 }
 
 #topContainer {
@@ -23,19 +28,19 @@
 
 #topRow h1 {
 	font-size: 300%;
-	color: #da5228;
+	color: #d05d39;
 }
 
 .lead {
-	color: #da5228;
+	color: #d05d39;
 }
 
 p{
-	color: #da5228;
+	color: #d05d39;
 }
 
 h2{
-	color: #da5228;
+	color:#d05d39;
 	margin-left: 100px;
 }
 .bold{
@@ -58,6 +63,7 @@ h2{
 #footer{
 	background-color: #333333;
 	width: 100%;
+	
 }
 
 .marginBottom{
