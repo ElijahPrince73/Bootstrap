@@ -1,1 +1,1 @@
-Responsive Website using Twitter Bootstrap
+This Is a mock-up a responsive landing page built with the twitter bootstrap framework.
